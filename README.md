@@ -6,3 +6,7 @@ This is a demo of Git session
 
 
 This is a change made from Local Laptop
+
+
+
+This change has been made from Remote Repo
